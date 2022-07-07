@@ -13,20 +13,20 @@
 						<div class="row">
 							<div class="col-xs-6">
 								<ul>
-									<li><a href="#">Beranda</a></li>
-									<li><a href="#">Galeri</a></li>
-									<li><a href="#">Pedoman</a></li>
-									<li><a href="#">Program</a></li>
-									<li><a href="#">Media Promosi</a></li>
+									<li><a href="<?=base_url()?>">Beranda</a></li>
+									<li><a href="<?=site_url('Galeri/index')?>">Galeri</a></li>
+									<li><a href="<?=site_url('Pedoman/index')?>">Pedoman</a></li>
+									<li><a href="<?=site_url('Program/index')?>">Program</a></li>
+									<li><a href="<?=site_url('Promosi/index')?>">Media Promosi</a></li>
 								</ul>
 							</div>
 							<div class="col-xs-6">
 								<ul>
-									<li><a href="#">Forum Fasilitator</a></li>
-									<li><a href="#">Pasar Aman</a></li>
-									<li><a href="#">Bahan Berbahaya</a></li>
-									<li><a href="#">SIPAMAN</a></li>
-									<li><a href="#">FAQ</a></li>
+									<li><a href="<?=site_url('Login/loginfasilitator')?>">Forum Fasilitator</a></li>
+									<li><a href="<?=site_url('PasarAman/index')?>">Pasar Aman</a></li>
+									<li><a href="<?=site_url('BahanBerbahaya/index')?>">Bahan Berbahaya</a></li>
+									<li><a href="<?=site_url('Login/loginsipaman')?>">SIPAMAN</a></li>
+									<li><a href="<?=site_url('Kontak/index')?>">FAQ</a></li>
 								</ul>
 							</div>
           </div>
