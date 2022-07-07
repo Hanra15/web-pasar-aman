@@ -12,7 +12,7 @@
 			<div class="container">
 				<h2 class="animate__animated animate__fadeInDown">Selamat Datang di <span>Puspaman bpom</span></h2>
 				<p class="animate__animated animate__fadeInUp">Pusat Informasi Pasar Aman Dari Bahan Berbahaya yang diintervensi oleh Badan POM dalam mengawasi pasar-pasar di indonesia sebagai upaya menstrelisasi pasar dari bahan berbahaya</p>
-				<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Pelajari lebih lanjut</a>
+				<a href="#" class="btn-get-started animate__animated animate__fadeInUp scrollto">Pelajari lebih lanjut</a>
 			</div>
 		</div>
 	</div>

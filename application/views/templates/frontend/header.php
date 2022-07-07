@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>PUSPAMAN - Beranda</title>
+  <title>PUSPAMAN - <?=$title;?></title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -37,36 +37,36 @@
       <div class="logo">
         <!-- Uncomment below if you prefer to use an text logo -->
         <!-- <h1><a href="index.html">NewBiz</a></h1> -->
-        <a href="index.html"><img src="<?=base_url();?>assets/img/frontend/logo_bpom_nav.png" alt=""></a>
-				<a href="index.html"><img src="<?=base_url();?>assets/img/frontend/logo_ppabk.jpeg" alt=""></a>
+        <a href="<?=base_url();?>"><img src="<?=base_url();?>assets/img/frontend/logo_bpom_nav.png" alt=""></a>
+				<a href="<?=base_url();?>"><img src="<?=base_url();?>assets/img/frontend/logo_ppabk.jpeg" alt=""></a>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
+          <li><a class="nav-link scrollto active" href="<?=base_url();?>">Beranda</a></li>
 					<li class="dropdown"><a href="#"><span>Informasi pasar</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Pasar Aman</a></li>
-              <li><a href="#">Bahan Berbahaya</a></li>
+              <li><a href="<?=site_url('frontend/PasarAman/index')?>">Pasar Aman</a></li>
+              <li><a href="<?=site_url('frontend/BahanBerbahaya/index')?>">Bahan Berbahaya</a></li>
             </ul>
           </li>
 					
 					<li class="dropdown"><a href="#"><span>Media</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Galeri</a></li>
+              <li><a href="<?=site_url('frontend/Galeri/index')?>">Galeri</a></li>
               <li class="dropdown"><a href="#"><span>Publikasi</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Program</a></li>
-                  <li><a href="#">Pedoman</a></li>
-                  <li><a href="#">Promosi</a></li>
+                  <li><a href="<?=site_url('frontend/Program/index')?>">Program</a></li>
+                  <li><a href="<?=site_url('frontend/Pedoman/index')?>">Pedoman</a></li>
+                  <li><a href="<?=site_url('frontend/Promosi/index')?>">Promosi</a></li>
                 </ul>
               </li>
-              <li><a href="#">Berita</a></li>
+              <li><a href="<?=site_url('frontend/Berita/index')?>">Berita</a></li>
             </ul>
           </li>
 					<li><a class="nav-link scrollto" href="<?=site_url('Login/loginfasilitator')?>">Fasilitator</a></li>
 					<li><a class="nav-link scrollto" href="<?=site_url('Login/loginsipaman')?>">SIPAMAN</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+          
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
