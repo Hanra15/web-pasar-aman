@@ -66,7 +66,7 @@
           </li>
 					<li><a class="nav-link scrollto" href="<?=site_url('Login/loginfasilitator')?>">Fasilitator</a></li>
 					<li><a class="nav-link scrollto" href="<?=site_url('Login/loginsipaman')?>">SIPAMAN</a></li>
-					<li><a class="nav-link scrollto" href="<?=site_url('Kontak/index')?>">Kontak</a></li>
+					<li><a class="nav-link scrollto" href="<?=site_url('frontend/Kontak/index')?>">Kontak</a></li>
           
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

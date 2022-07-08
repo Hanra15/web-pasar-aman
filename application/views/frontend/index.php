@@ -32,7 +32,7 @@
 	<div class="carousel-item" style="background-image: url(<?=base_url()?>assets/img/frontend/slide/slide3.png)">
 		<div class="carousel-container">
 			<div class="container">
-				<h2 class="animate__animated animate__fadeInDown">Pasar Bebas Dari Bahan Berbahaya</h2>
+				<h2 class="animate__animated animate__fadeInDown">Pasar Aman Bebas Dari Bahan Berbahaya</h2>
 				<p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
 				
 			</div>
@@ -113,7 +113,7 @@
 						<div class="card h-100">
 							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
 							<div class="card-body">
-								<a href=""><h5 class="card-title">Card title</h5></a>
+								<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">BBPOM Bandung Survei Pasar di Kota Sukabumi</h5></a>
 								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 								
 							</div>
@@ -126,7 +126,7 @@
 						<div class="card h-100">
 							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
 							<div class="card-body">
-							<a href=""><h5 class="card-title">Card title</h5></a>
+							<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">Penyuluhan Pedagang Pasar dan Kampanye PPABK di Pasar Mblin Kayam Kabupaten Raja Ampat</h5></a>
 								<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
 								
 							</div>
@@ -139,7 +139,7 @@
 						<div class="card h-100">
 							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
 							<div class="card-body">
-							<a href=""><h5 class="card-title">Card title</h5></a>
+							<a href=""><h5 class="card-title">BBPOM di serang Tingkatkan Kompetensi Pengelola Pasar melalui Pelatihan Fasilitator PPABK</h5></a>
 								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
 								
 							</div>
