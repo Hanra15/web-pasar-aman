@@ -12,7 +12,7 @@
 			<div class="container">
 				<h2 class="animate__animated animate__fadeInDown">Selamat Datang di <span>Puspaman bpom</span></h2>
 				<p class="animate__animated animate__fadeInUp">Pusat Informasi Pasar Aman Dari Bahan Berbahaya yang diintervensi oleh Badan POM dalam mengawasi pasar-pasar di indonesia sebagai upaya menstrelisasi pasar dari bahan berbahaya</p>
-				<a href="#" class="btn-get-started animate__animated animate__fadeInUp scrollto">Pelajari lebih lanjut</a>
+				<a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Pelajari lebih lanjut</a>
 			</div>
 		</div>
 	</div>
@@ -22,7 +22,7 @@
 		<div class="carousel-container">
 			<div class="container">
 				<h2 class="animate__animated animate__fadeInDown">Informasi Pasar Aman</h2>
-				<p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+				<p class="animate__animated animate__fadeInUp">Pasar Aman adalah pasar percontohan yang diintervensi oleh Badan POM, dimana secara periodik dilakukan pengawasan terhadap pangan yang diduga mengandung bahan berbahaya dan dalam periode pengawasan terakhir tidak ditemukan adanya penyalahgunaan bahan berbahaya dalam pangan.</p>
 				
 			</div>
 		</div>
@@ -33,7 +33,7 @@
 		<div class="carousel-container">
 			<div class="container">
 				<h2 class="animate__animated animate__fadeInDown">Pasar Aman Bebas Dari Bahan Berbahaya</h2>
-				<p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+				<p class="animate__animated animate__fadeInUp">Pasar aman dari bahan berbahaya adalah pasar yang mempunyai komitmen dan dukungan penuh dari komunitas pasar (pedagang, pemasok, masyarakat) dan pemerintah setempat untuk mengendalikan peredaran bahan berbahaya yang disalahgunakan dalam pangan dan pangan yang berpotensi mengandung bahan berbahaya.</p>
 				
 			</div>
 		</div>
@@ -67,25 +67,25 @@
 
           <div class="col-lg-6 content order-lg-1 order-2">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+						Pasar Aman adalah pasar percontohan yang diintervensi oleh Badan POM, dimana secara periodik dilakukan pengawasan terhadap pangan yang diduga mengandung bahan berbahaya dan dalam periode pengawasan terakhir tidak ditemukan adanya penyalahgunaan bahan berbahaya dalam pangan.
             </p>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <h4 class="title"><a href="">FAQ</a></h4>
+              <p class="description">Penjelasan seputar pertanyaan - pertanyaan yang sering ditanyakan terkait pasar aman dari bahan berbahaya.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi bi-brightness-high"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Program</a></h4>
+              <p class="description">Program pasarmana dari bahan berahaya dalam pengendalian peredaran bahan berbahaya yang disalahgunakan.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4 class="title"><a href="">Bahan Berbahaya</a></h4>
+              <p class="description">Penjelasan tentang bahan berbahaya dan informasi seputar bahan berbahaya yang ada pada produk pangan  di pasar.</p>
             </div>
 
           </div>
@@ -114,11 +114,11 @@
 							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
 							<div class="card-body">
 								<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">BBPOM Bandung Survei Pasar di Kota Sukabumi</h5></a>
-								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+								<p class="card-text">Kota Sukabumi (20-21 Juni 2022), Balai Besar POM di Bandung melaksanakan kegiatan survei pasar dalam rangka implementasi Pasar Aman dari Bahan Berbahaya.</p>
 								
 							</div>
 							<div class="card-footer">
-								<small class="text-muted">Last updated 3 mins ago</small>
+								<small class="text-muted">Terakhir diupdate 3 menit yang lalu</small>
 							</div>
 						</div>
 					</div>
@@ -127,11 +127,11 @@
 							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
 							<div class="card-body">
 							<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">Penyuluhan Pedagang Pasar dan Kampanye PPABK di Pasar Mblin Kayam Kabupaten Raja Ampat</h5></a>
-								<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+								<p class="card-text">Selasa 21 Juni 2022, Penyuluhan kepada Pedagang Pasar dirangkaikan dengan Kampanye Pasar Pangan Aman Berbasis Komunitas telah dilaksanakan oleh Balai POM di Manokwari di Pasar Mbilim Kayam Kabupaten Raja Ampat.</p>
 								
 							</div>
 							<div class="card-footer">
-								<small class="text-muted">Last updated 3 mins ago</small>
+								<small class="text-muted">Terakhir diupdate 3 menit yang lalu</small>
 							</div>
 						</div>
 					</div>
@@ -139,13 +139,13 @@
 						<div class="card h-100">
 							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
 							<div class="card-body">
-							<a href=""><h5 class="card-title">BBPOM di serang Tingkatkan Kompetensi Pengelola Pasar melalui Pelatihan Fasilitator PPABK</h5></a>
-								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+							<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">BBPOM di serang Tingkatkan Kompetensi Pengelola Pasar melalui Pelatihan Fasilitator PPABK</h5></a>
+								<p class="card-text">Rabu, 15 Juni 2022 bertempat di Studio RRI Kabupaten Nabire, Kepala Balai Besar POM di Jayapura, Mojaza Sirait, S.Si., Apt melakukan kegiatan talkshow bersama narasumber tamu Jeuquline O. Tentua, S.Si., Apt Kepala Seksi Pelayanan Kefarmasian dan Makanan Dinas Kesehatan Kabupaten Nabire.</p>
 								
 							</div>
 							<div class="card-footer">
 								
-								<small class="text-muted">Last updated 3 mins ago</small>
+								<small class="text-muted">Terakhir diupdate 3 menit yang lalu</small>
 							</div>
 						</div>
 					</div>
@@ -168,33 +168,43 @@
           <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="100">
             <div class="box">
               <div class="icon"><i class="bi bi-shop-window" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Pasar Johar Baru</a></h4>
+              <p class="description">Kepala Pasar : bapak Suganda</p>
+							<p class="description">Alamat :  Jl. Johar Jakarta pusat</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="200">
             <div class="box">
               <div class="icon"><i class="bi bi-shop-window" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4 class="title"><a href="">Pasar Sekip Ujung</a></h4>
+              <p class="description">Kepala Pasar : Yasfin M</p>
+							<p class="description">Alamat : Sekip Ujung Palembang</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="100">
             <div class="box">
               <div class="icon"><i class="bi bi-shop-window" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="">Pasar Agrobisnis Keramat Barabai</a></h4>
+              <p class="description">Kepala Pasar : Muhammad Rumainur</p>
+							<p class="description">Alamat : Barabai Utara, Barabai, Kabupaten Hulu Sungai Tengah, Kalimantan Selatan 71352</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="200">
             <div class="box">
               <div class="icon"><i class="bi bi-shop-window" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Pasar Cakranegara</a></h4>
+              <p class="description">Kepala Pasar : I Nengah Sukardi</p>
+							<p class="description">Alamat :  Jl. Selaparang, Cakranegara</p>
             </div>
           </div>
-
+          <div class="col-md-12 col-lg-5" data-aos="zoom-in" data-aos-delay="100">
+            <div class="box text-center">
+              <a href="<?=site_url('frontend/PasarAman/index')?>" class="btn-get-started animate__animated animate__fadeInUp scrollto">Lihat Selengkapnya</a>          
+            </div>
+            
+          </div>
+          
           
 
         </div>
@@ -207,7 +217,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h3>Bahan Berbahaya</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+          <p>Bahan berbahaya adalah bahan kimia baik dalam bentuk tunggal maupun campuran yang dapat membahayakan kesehatan dan lingkungan hidup secara langsung atau tidak langsung yang mempunyai sifat racun, karsinogenik, teratogenik, mutagenik, korosif dan iritasi (Peraturan Menteri Kesehatan Nomor 472/Menkes/Per/V/1996 tentang Pengamanan Bahan Berbahaya Bagi Kesehatan).</p>
         </header>
 
         <div class="row row-eq-height justify-content-center">
@@ -216,9 +226,9 @@
             <div class="card" data-aos="zoom-in" data-aos-delay="100">
               <i class="bi bi-calendar4-week"></i>
               <div class="card-body">
-                <h5 class="card-title">Corporis dolorem</h5>
-                <p class="card-text">Deleniti optio et nisi dolorem debitis. Aliquam nobis est temporibus sunt ab inventore officiis aut voluptatibus.</p>
-                <a href="#" class="readmore">Read more </a>
+                <h5 class="card-title">Boraks</h5>
+                <p class="card-text">Boraks merupakan senyawa dengan nama kimia natrium tetraborat yang berbentuk kristal lunak. Boraks digunakan untuk campuran pembuatan gelas, pengawet kayu, salep kulit, campuran pupuk tanaman, dll.</p>
+                <a href="#" class="readmore">Pelajari lebih lanjut</a>
               </div>
             </div>
           </div>
@@ -227,9 +237,9 @@
             <div class="card" data-aos="zoom-in" data-aos-delay="200">
               <i class="bi bi-camera-reels"></i>
               <div class="card-body">
-                <h5 class="card-title">Voluptates dolores</h5>
-                <p class="card-text">Voluptates nihil et quis omnis et eaque omnis sint aut. Ducimus dolorum aspernatur.</p>
-                <a href="#" class="readmore">Read more </a>
+                <h5 class="card-title">Formalin</h5>
+                <p class="card-text">Formalin termasuk kelompok aldehid dengan rumus kimia HCHO, biasanya berbentuk larutan yang tidak berwarna dan berbau sangat menyengat. Di dalam larutan formalin terkandung sekitar 37% formaldehid dalam air dan. Formalin dipakai untuk mengawetkan mayat, membunuh kuman, pengawet kosmetika dan pengeras kuku, serta perekat kayu lapis.</p>
+                <a href="#" class="readmore">Pelajari lebih lanjut</a>
               </div>
             </div>
           </div>
@@ -238,9 +248,9 @@
             <div class="card" data-aos="zoom-in" data-aos-delay="300">
               <i class="bi bi-chat-square-text"></i>
               <div class="card-body">
-                <h5 class="card-title">Eum ut aspernatur</h5>
-                <p class="card-text">Autem quod nesciunt eos ea aut amet laboriosam ab. Eos quis porro in non nemo ex. </p>
-                <a href="#" class="readmore">Read more </a>
+                <h5 class="card-title">Rhodamin B dan Kuning Metanil</h5>
+                <p class="card-text">Rhodamin B dan Kuning Metanil dipakai untuk pewarna tekstil, kertas serta cat.</p>
+                <a href="#" class="readmore">Pelajari lebih lanjut</a>
               </div>
             </div>
           </div>

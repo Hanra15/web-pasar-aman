@@ -34,7 +34,7 @@
                                                 </div>
                                                 <div class="col-12" style="margin-top: 30px;">
                                                     <div class="d-grid">
-                                                        <button type="submit" class="btn btn-primary"><a href="<?=site_url('Dashboard/index')?>" style="text-decoration:none ; color:white">Login</a></button>
+                                                        <button type="submit" class="btn btn-primary"><a href="<?=site_url('backend/Dashboard/index')?>" style="text-decoration:none ; color:white">Login</a></button>
                                                     </div>
                                                 </div>
                                             </form>
