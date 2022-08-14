@@ -7,7 +7,7 @@
 	<div class="d-flex justify-content-between align-items-center">
 	  <h2><?=$title?></h2>
 	  <ol>
-		<li><a href="<?base_url()?>">Beranda</a></li>
+		<li><a href="<?=base_url()?>">Beranda</a></li>
 		<li><?=$title?></li>
 	  </ol>
 	</div>
@@ -40,11 +40,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" class="portfolio-lightbox link-preview"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -54,11 +53,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                
                 </div>
               </div>
             </div>
@@ -68,11 +66,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -82,11 +79,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" class="portfolio-lightbox link-preview"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -96,11 +92,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                
                 </div>
               </div>
             </div>
@@ -110,11 +105,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>

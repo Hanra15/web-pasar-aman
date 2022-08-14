@@ -5,7 +5,7 @@
         <div class="row">
 
           <div class="col-md-4 footer-info">
-						<a href=""><img src="<?=base_url()?>assets/img/frontend/halo-bpom.png" alt=""></a>
+						<a href="#"><img src="<?=base_url()?>assets/img/frontend/halo-bpom.png" alt=""></a>
           </div>
 
           <div class="col-md-4 footer-links">
@@ -26,7 +26,7 @@
 									<li><a href="<?=site_url('PasarAman/index')?>">Pasar Aman</a></li>
 									<li><a href="<?=site_url('BahanBerbahaya/index')?>">Bahan Berbahaya</a></li>
 									<li><a href="<?=site_url('Login/loginsipaman')?>">SIPAMAN</a></li>
-									<li><a href="<?=site_url('Kontak/index')?>">FAQ</a></li>
+									<li><a href="<?=site_url('frontend/Kontak/index')?>">FAQ</a></li>
 								</ul>
 							</div>
           </div>
@@ -35,19 +35,18 @@
 					<div class="col-md-4 footer-contact">
             <h4>Kontak Kami</h4>
             <p>
-			Direktorat Pemberdayaan Masyarakat dan Pelaku Usaha
- 			<br>
-			Badan Pengawas Obat dan Makanan<br>
-			Jalan Percetakan Negara No. 23, Jakarta Pusat 10560 <br>
-              <strong>Telepon:</strong>1500533<br>
-			  <strong>SMS:</strong>0812199995333<br>
-              <strong>Email:</strong> halobpom@pom.go.id<br>
+						Direktorat Pemberdayaan Masyarakat dan Pelaku Usaha
+						<br>
+						Badan Pengawas Obat dan Makanan<br>
+						Jalan Percetakan Negara No. 23, Jakarta Pusat 10560 <br>
+              <strong>Telepon :</strong> 1500533<br>
+			  			<strong>SMS :</strong> 0812199995333<br>
+              <strong>Email :</strong> halobpom@pom.go.id<br>
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              
+							<a href="https://www.facebook.com/BadanPOM/" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="https://twitter.com/bpom_ri" class="twitter"><i class="bi bi-twitter"></i></a>
             </div>
 						</div>
           

@@ -124,7 +124,7 @@
 					</div>
 					<div class="col">
 						<div class="card h-100">
-							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
+							<img src="<?=base_url()?>assets/img/frontend/berita/berita2.png" class="card-img-top" alt="...">
 							<div class="card-body">
 							<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">Penyuluhan Pedagang Pasar dan Kampanye PPABK di Pasar Mblin Kayam Kabupaten Raja Ampat</h5></a>
 								<p class="card-text">Selasa 21 Juni 2022, Penyuluhan kepada Pedagang Pasar dirangkaikan dengan Kampanye Pasar Pangan Aman Berbasis Komunitas telah dilaksanakan oleh Balai POM di Manokwari di Pasar Mbilim Kayam Kabupaten Raja Ampat.</p>
@@ -137,7 +137,7 @@
 					</div>
 					<div class="col">
 						<div class="card h-100">
-							<img src="<?=base_url()?>assets/img/frontend/berita/berita1.png" class="card-img-top" alt="...">
+							<img src="<?=base_url()?>assets/img/frontend/berita/berita3.png" class="card-img-top" alt="...">
 							<div class="card-body">
 							<a href="<?=site_url('frontend/Berita/detail_berita')?>"><h5 class="card-title">BBPOM di serang Tingkatkan Kompetensi Pengelola Pasar melalui Pelatihan Fasilitator PPABK</h5></a>
 								<p class="card-text">Rabu, 15 Juni 2022 bertempat di Studio RRI Kabupaten Nabire, Kepala Balai Besar POM di Jayapura, Mojaza Sirait, S.Si., Apt melakukan kegiatan talkshow bersama narasumber tamu Jeuquline O. Tentua, S.Si., Apt Kepala Seksi Pelayanan Kefarmasian dan Makanan Dinas Kesehatan Kabupaten Nabire.</p>
@@ -309,11 +309,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" class="portfolio-lightbox link-preview"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -323,11 +322,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                
                 </div>
               </div>
             </div>
@@ -337,11 +335,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -351,11 +348,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide1.png" data-gallery="portfolioGallery" class="portfolio-lightbox link-preview"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -365,11 +361,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide2.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                
                 </div>
               </div>
             </div>
@@ -379,11 +374,10 @@
             <div class="portfolio-wrap">
               <img src="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                
                 <div>
-                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="<?=base_url()?>assets/img/frontend/slide/slide3.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery"><i class="bi bi-search"></i></a>
+                  
                 </div>
               </div>
             </div>

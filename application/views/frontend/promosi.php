@@ -15,12 +15,19 @@
   </div>
 </section><!-- End Breadcrumbs Section -->
 
-<section class="inner-page pt-4">
-  <div class="container">
-	<p>
-	  Example inner page template
-	</p>
-  </div>
-</section>
+<!-- ======= Portfolio Section ======= -->
+<section id="portfolio" class="clearfix">
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3 class="section-title"><?=$title;?></h3>
+        </header>
+
+        
+
+        
+
+      </div>
+    </section><!-- End Portfolio Section -->
 
 </main><!-- End #main -->
